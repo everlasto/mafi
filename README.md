@@ -1,4 +1,5 @@
 mafi
 ====
 
-multiplayer mafia game
+A multiplayer mafia game.
+
